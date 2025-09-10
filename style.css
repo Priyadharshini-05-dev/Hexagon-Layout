@@ -18,7 +18,7 @@ h1 {
 }
 
 .header {
-  background-image: url("Images/bg/bg.jpg");
+  background-image: url("Images/bg.jpg");
   height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
@@ -721,4 +721,5 @@ button:hover {
   font-size: 1.1rem;
   color: white;
   cursor: pointer;
+
 }
